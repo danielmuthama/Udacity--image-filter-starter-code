@@ -1,8 +1,11 @@
 ### Deploying-Image-Filter-App-in-Aws-eb
 #### Deployed link:
 http://limou-env.eba-g2mk3fig.us-east-1.elasticbeanstalk.com
+![ezcv logo](https://github.com/danielmuthama/Udacity--image-filter-starter-code/blob/master/deployment_screenshots/12.png?raw=true)
+![ezcv logo](https://github.com/danielmuthama/Udacity--image-filter-starter-code/blob/master/deployment_screenshots/2.png?raw=true)
  #### Image After a Successful FILTER event: OK
         http://limou-env.eba-g2mk3fig.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://img.freepik.com/free-photo/ultra-tech-close-up-young-           woman-brown-neon-light-beautiful-female-model-with-fashionable-trendy-eyewear_155003-42079.jpg
+ ![ezcv logo](https://github.com/danielmuthama/Udacity--image-filter-starter-code/blob/master/deployment_screenshots/Screenshot%202022-07-01%20at%2023-56-31%20filteredimage%20(JPEG%20Image%20256%20%C3%97%20256%20pixels).png?raw=true)
         
  #### Changelog after cloning 
         npm i -g npm-check-updates
