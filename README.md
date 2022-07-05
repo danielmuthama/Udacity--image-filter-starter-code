@@ -1,4 +1,6 @@
 ### Deploying-Image-Filter-App-in-Aws-eb
+#### Image to be Filtered
+![ezcv logo](https://img.freepik.com/free-photo/ultra-tech-close-up-young-woman-brown-neon-light-beautiful-female-model-with-fashionable-trendy-eyewear_155003-42079.jpg)
 #### Deployed link:
 http://limou-env.eba-g2mk3fig.us-east-1.elasticbeanstalk.com
 ![ezcv logo](https://github.com/danielmuthama/Udacity--image-filter-starter-code/blob/master/deployment_screenshots/12.png?raw=true)
